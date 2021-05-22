@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @2113ic
+- 👀 I’m interested in html\css\JavaScript
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on icxiaoyan@163.com
